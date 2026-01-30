@@ -1,4 +1,4 @@
-# github.io
+nmenguc# github.io
 # 👋 Hi, I'm Ercan Mengüç
 
 🎓 PhD | Machine Learning & Microwave Measurements  
@@ -37,6 +37,6 @@
 ---
 
 ## 📫 Contact
-- Email: yourname@domain.com
+- Email: ercanmenguc@gmail.com
 - Google Scholar: [link]
 - ORCID: [link]
