@@ -9,8 +9,8 @@ nmenguc# github.io
 ## 🔬 Research Interests
 - Microwave material characterization
 - Complex permittivity estimation
-- Machine learning & deep learning regression
-- PCA-based feature extraction
+- Machine learning & Deep learning 
+- Data Analysis
 - Non-destructive testing (NDT)
 
 ---
@@ -22,21 +22,6 @@ nmenguc# github.io
 
 ---
 
-## 🛠️ Tools & Technologies
-- Python, NumPy, Pandas, Scikit-learn, TensorFlow
-- MATLAB
-- VNA measurements & RF systems
-- LaTeX
 
----
 
-## 📄 Publications
-- *Mengüç et al., 2025* – Data-driven microwave characterization of wood materials  
-*(add DOI or link if public)*
 
----
-
-## 📫 Contact
-- Email: ercanmenguc@gmail.com
-- Google Scholar: [link]
-- ORCID: [link]
